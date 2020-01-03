@@ -64,7 +64,7 @@
   {% else %}
     <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}">
   {% endif %}
-
+  <meta name="google-site-verification" content="lhES8zS1QH4bNWZScYNNx2940U1QfPpK5R0IH_gF27s" />
 	<meta name="description" content="{{ page.description }}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -85,5 +85,19 @@
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<!-- Styles -->
-	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+  
+
+
+  {% include google-analytics.html %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145476208-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145476208-1');
+</script>
+
 </head>
