@@ -7,9 +7,9 @@ url: "https://jeonhyun97.github.io" # the base hostname & protocol for your site
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Hyeon Jeon # add your name
+author: 기술로 뿌려진 사랑만큼 # add your name
 author-img: profile_image.jpeg # add your photo
-about-author:  POSTECH undergraduated, majoring CSE. Especially interested to Algorithms and Data Science, Software Engineering and Development. # add description
+about-author: POSTECH undergraduate / Developer / Programmer Hyeon Jeon's blog  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: jeonhyun97 # add your Github handle
