@@ -1,4 +1,4 @@
-title: Hello, world! I'm David Freeman
+title: 기술로 뿌려진 사랑만큼
 description: > # this means to ignore newlines until "baseurl:"
   Undergraduate student / Developer / Programmer Hyeon Jeon's blog.
 permalink: /:year-:month-:day/:title/
@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Hyeon Jeon # add your name
-author-img: ./images/profile_image.jpeg # add your photo
+author-img: profile_image.jpeg # add your photo
 about-author:  POSTECH undergraduated, majoring CSE. Especially interested to Algorithms and Data Science, Software Engineering and Development. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
