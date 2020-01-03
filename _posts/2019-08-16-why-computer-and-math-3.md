@@ -5,6 +5,7 @@ description: "심지어 역사도 재미있다"
 date: 2019-08-16
 tags: [Computer science, Computer Engineering, Mathematics, 컴퓨터, 컴퓨터과학, 컴퓨터공학, 수학]
 category: "Why computer?"
+img: alanTuringGoogle.png
 comments: true
 share: true
 ---

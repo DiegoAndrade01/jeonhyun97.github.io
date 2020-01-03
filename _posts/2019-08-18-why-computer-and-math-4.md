@@ -5,6 +5,7 @@ description: "튜링 머신과 컴퓨터의 시뮬레이션"
 date: 2019-08-16
 tags: [Computer science, Computer Engineering, Mathematics, 컴퓨터, 컴퓨터과학, 컴퓨터공학, 수학]
 category: "Why computer?"
+img: TMSmartphone.png
 comments: true
 share: true
 ---
