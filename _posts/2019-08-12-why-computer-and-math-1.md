@@ -5,7 +5,7 @@ description: "왜 우리는 컴퓨터공학 / 과학과 수학을 배워야할�
 date: 2019-08-12
 tags: [Computer science, Computer Engineering, Mathematics, 컴퓨터, 컴퓨터과학, 컴퓨터공학, 수학]
 category: "Why computer?"
-img: ../images/newspaper.jpeg
+img: "https://jeonhyun97.github.io/images/newspaper.jpeg" 
 comments: true
 share: true
 ---
