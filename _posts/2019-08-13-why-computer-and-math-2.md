@@ -5,6 +5,7 @@ description: "왜 나는 컴퓨터를 공부하지?"
 date: 2019-08-13
 tags: [Computer science, Computer Engineering, Mathematics, 컴퓨터, 컴퓨터과학, 컴퓨터공학, 수학]
 category: "Why computer?"
+imgs: poty.jpg
 comments: true
 share: true
 ---
