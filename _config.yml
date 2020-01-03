@@ -8,8 +8,8 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Hyeon Jeon # add your name
-author-img: profile_image.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author-img: ./images/profile_image.jpg # add your photo
+about-author:  POSTECH undergraduated, majoring CSE. Especially interested to Algorithms and Data Science, Software Engineering and Development. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: jeonhyun97 # add your Github handle
