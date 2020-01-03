@@ -5,6 +5,7 @@ description: "2019년 여름학기 블록체인 & 암호화폐 term project 후�
 date: 2019-08-05
 tags: [blockchain, ethereum, dApp, 블록체인, 이더리움, 디앱]
 category: "Chitchat"
+img: ./images/kitty.jpg
 comments: true
 share: true
 ---
