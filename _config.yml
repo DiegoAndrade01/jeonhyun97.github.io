@@ -11,7 +11,7 @@ author: 기술로 뿌려진 사랑만큼 # add your name
 author-img: profile_image.jpeg # add your photo
 about-author: POSTECH undergraduate / Developer / Programmer Hyeon Jeon's blog  # add description
 about-author-1: Especially interested to Algorithms, Graph Theory and their applications & Software Engineering and Development.  # add description
-about-author-2: For more detail, check my <a href="https://jeonhyun97.github.io/cv.pdf" style="color:MediumTurquoise; text-decoration:none;">CV!!</a>
+about-author-2: For more detail, check my <a href="https://jeonhyun97.github.io/cv/cv.pdf" style="color:MediumTurquoise; text-decoration:none;">CV!!</a>
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: jeonhyun97 # add your Github handle
