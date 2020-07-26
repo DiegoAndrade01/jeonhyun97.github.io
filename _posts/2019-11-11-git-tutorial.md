@@ -5,6 +5,7 @@ description: "git tutorial for the undergraduate students"
 date: 2019-11-11
 tags: [Computer science, Computer Engineering, Mathematics, 컴퓨터, 컴퓨터과학, 컴퓨터공학, git, github]
 category: "Why computer?"
+img: git_icon.png
 comments: true
 share: true
 ---
