@@ -1,4 +1,4 @@
-title: 기술로 뿌려진 사랑만큼
+title: Thinking the unthinkable
 description: > # this means to ignore newlines until "baseurl:"
   Undergraduate student / Developer / Programmer Hyeon Jeon's blog.
 permalink: /:title/
@@ -7,16 +7,15 @@ url: "https://jeonhyun97.github.io" # the base hostname & protocol for your site
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: 기술로 뿌려진 사랑만큼 # add your name
-author-img: profile_image.jpeg # add your photo
-about-author: POSTECH undergraduate / Developer / Programmer Hyeon Jeon's blog  # add description
-about-author-1: Especially interested to Algorithms, Graph Theory and their applications & Software Engineering and Development.  # add description
-about-author-2: For more detail, check my <a href="https://jeonhyun97.github.io/cv/cv.pdf" style="color:MediumTurquoise; text-decoration:none;">CV!!</a>
+author: Thinking the unthinkable # add your name
+author-img: profile_image.jpg # add your photo
+about-author: Graduate Student / Developer / Programmer Hyeon Jeon's blog  # add description
+about-author-1: Check my <a href="https://jeonhyun97.github.io/cv/cv.pdf" style="color:MediumTurquoise; text-decoration:none;">CV!!</a>
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: jeonhyun97 # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: jeonhyun97@postech.ac.kr # add your Email addresss
+social-email: hj@hcil.snu.ac.kr # add your Email addresss
 
 # Disqus
 discus-identifier: hjeon # add your discus identifier
