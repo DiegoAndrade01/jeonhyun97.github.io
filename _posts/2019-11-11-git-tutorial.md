@@ -29,7 +29,7 @@ However, using git locally, which means that maintaining your source code and gi
 
 ### Github
 
-For just fun, let's talk about Github more precisely, as it the most popular remote git repository service among developers. Git and Github used for the majority of existing projects, due to its stability and usability. Also, as using Github for open source project is free, it became the Macca of open source. For example, the entire source code of Linux or Google's ML library Tenserflow is opened to the public on Github.
+Just for fun, let's talk about Github more precisely, as it the most popular remote git repository service among developers. Git and Github used for the majority of existing projects, due to its stability and usability. Also, as using Github for open source project is free, it became the Macca of open source. For example, the entire source code of Linux or Google's ML library Tenserflow is opened to the public on Github.
 
 <center><img src="https://jeonhyun97.github.io/images/linux_github.png" width="450" ></center>  
 
